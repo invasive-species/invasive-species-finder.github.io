@@ -1,11 +1,11 @@
-title: UH Ratings
-description: Professor review and Course review for the UH Community
+title: Invasive Species Finder
+description: To help identify, locate, and report invasive species in Hawaii.
 google_analytics:
 show_downloads: false
 theme: jekyll-theme-cayman
 github:
   is_project_page: true
-  repository_url: https://github.com/uh-ratings
+  repository_url: https://github.com/invasive-species/invasive-species-finder
 
 gems:
   - jekyll-mentions
