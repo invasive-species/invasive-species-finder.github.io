@@ -21,7 +21,17 @@ the island and cause serious damage to the ecosystem or human beings.
 
 ## Usage
 
-* to be added
+### 1. Login page
+
+![Login page](./doc/login-page.png)
+
+Users can login with their account using the Email and Pawssord they created. Sign up link will lead to the sign up page. Forgot password link will lead to the reset password page. Sign up link will take user back to the sign in page to login.
+
+### 2. Sign up page
+
+![Sign up page](./doc/signup-page.png)
+
+Users can sign up by entering their Name, Email, password, and phone number. The password must be at least 6 characters long.
 
 ## Installation
 
