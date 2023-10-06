@@ -23,13 +23,13 @@ the island and cause serious damage to the ecosystem or human beings.
 
 ### 1. Login page
 
-<img src="./doc/login-page.png" alt="login-page" width=300, height=600>
+<img src="./doc/login-page.png" alt="login-page" width="300", height="600">
 
 Users can login with their account using the Email and Password they created. Sign up link will lead to the sign up page. Forgot password link will lead to the reset password page. Sign up link will take user back to the sign in page to login.
 
 ### 2. Sign up page
 
-<img src="./doc/signup-page.png" alt="singup-page" width=300, height=600>
+<img src="./doc/signup-page.png" alt="singup-page" width="300", height="600">
 
 Users can sign up by entering their Name, Email, password, and phone number. The password must be at least 6 characters long.
 
