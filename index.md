@@ -2,12 +2,12 @@
 
 ## Table of contents
 
-* [Motivation](#Motivation)
-* [Goals](#Goals)
-* [Usage](#Usage)
-* [Installation](#Installation)
-* [Development statues](#Development-statues)
-* [About us](#About-us)
+* [Motivation](#motivation)
+* [Goals](#goals)
+* [Usage](#usage)
+* [Installation](#installation)
+* [Development statues](#development-statues)
+* [About us](#about-us)
 
 ## Motivation
 Hawaiian ecosystems are under high level of threat from numerous invasive
