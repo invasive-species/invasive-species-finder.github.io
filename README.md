@@ -1,3 +1,3 @@
 
 This repo contains the documentation for the invasive species finder application. 
-See index.md for the source, or go to https://invasive-species.github.io/invasive-species-finder.github.io/.
+See index.md for the source, or go to https://invasive-species.github.io.
