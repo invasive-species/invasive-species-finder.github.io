@@ -6,7 +6,7 @@
 * [Goals](#goals)
 * [Usage](#usage)
 * [Installation](#installation)
-* [Development statues](#development-statues)
+* [Development Status](#development-status)
 * [About us](#about-us)
 
 ## Motivation
@@ -25,7 +25,7 @@ the island and cause serious damage to the ecosystem or human beings.
 
 ![Login page](./doc/login-page.png)
 
-Users can login with their account using the Email and Pawssord they created. Sign up link will lead to the sign up page. Forgot password link will lead to the reset password page. Sign up link will take user back to the sign in page to login.
+Users can login with their account using the Email and Password they created. Sign up link will lead to the sign up page. Forgot password link will lead to the reset password page. Sign up link will take user back to the sign in page to login.
 
 ### 2. Sign up page
 
@@ -64,9 +64,9 @@ The Flutter DevTools debugger and profiler on iPhone 13 Pro is available at:
 http://127.0.0.1:9101?uri=http://127.0.0.1:63610/L5Qxu9BkbG0=/
 ```
 
-## Development statues
+## Development Status
 
-Project Board: https://github.com/orgs/invasive-species/projects/2
+Project Board: [https://github.com/orgs/invasive-species/projects/2](https://github.com/orgs/invasive-species/projects/2)
 
 ## About us
 
@@ -74,9 +74,9 @@ Project Board: https://github.com/orgs/invasive-species/projects/2
 
 Graduate student in Computer Science at University of Hawaii at Manoa. 
 
-Email: hangbo@hawaii.edu
+Email: [hangbo@hawaii.edu](mailto:hangbo@hawaii.edu)
 
-Profolio: https://hangbozhang.github.io/
+Portfolio: [https://hangbozhang.github.io/](https://hangbozhang.github.io/)
 
 ***Moseli Motsoehi:*** 
 
@@ -84,4 +84,4 @@ PhD student in Computer Science at University of Hawaii at Manoa.
 
 Email:
 
-Profolio:
+Portfolio:
