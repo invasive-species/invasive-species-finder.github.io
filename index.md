@@ -24,6 +24,7 @@ the island and cause serious damage to the ecosystem or human beings.
 ### 1. Login page
 
 ![login-page](doc/login-page.png)
+<img src="./doc/login-page.png" alt="login page" width=300 height=600 />
 
 Users can login with their account using the Email and Password they created. Sign up link will lead to the sign up page. Forgot password link will lead to the reset password page. Sign up link will take user back to the sign in page to login.
 
