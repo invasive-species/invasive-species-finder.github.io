@@ -33,27 +33,7 @@ Users can login with their account using the Email and Password they created. Si
 
 Users can sign up by entering their Name, Email, password, and phone number. The password must be at least 6 characters long.
 
-### 3. List page
-
-<img src="./doc/list-page.png" alt="list page" width=300 height=600 />
-
-The list page shows all the invasive species that have been reported by the users or added by admin and grouped them 
-into 3 categories. Users can click on the categories to get into the detailed list of that category.
-
-### 4. Forum page
-
-<img src="./doc/forum-page.png" alt="forum page" width=300 height=600 />
-
-The forum page shows all the posts that have been posted by the users. 
-Users can click on the post to get into the detailed post page.
-
-### 5. Camera page
-
-<img src="./doc/camera-page.png" alt="camera page" width=300 height=600 />
-
-The camera page allows users to take a picture of the invasive species and upload it to the database.
-
-### 6. Drawer
+### 3. Drawer
 
 <img src="./doc/drawer.png" alt="drawer" width=300 height=600 />
 
@@ -61,11 +41,37 @@ The drawer contains the user's profile picture, name, and email. And it has the 
 post page (which contains all the posts posted by the user), and the logout button. (there will be more added into the
 drawer in the future)
 
-### 7. Post page
+### 4. Post page
 
 <img src="./doc/my-post.png" alt="post page" width=300 height=600 />
 
 The post page shows all the posts that have been posted by the user.
+
+### 5. List page
+
+<img src="./doc/list-page.png" alt="list page" width=300 height=600 />
+
+The list page shows all the invasive species that have been reported by the users or added by admin and grouped them 
+into 3 categories. Users can click on the categories to get into the detailed list of that category.
+
+### 6. Forum page
+
+<img src="./doc/forum-page.png" alt="forum page" width=300 height=600 />
+
+The forum page shows all the posts that have been posted by the users. 
+Users can click on the post to get into the detailed post page.
+
+### 7. Camera page
+
+<img src="./doc/camera-page.png" alt="camera page" width=300 height=600 />
+
+The camera page allows users to take a picture of the invasive species and upload it to the database.
+
+### 8. Message page
+
+<img src="./doc/message-page.png" alt="message page" width=300 height=600 />
+
+The message page shows all the messages that have been sent by the users.
 
 
 
