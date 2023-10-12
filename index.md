@@ -73,6 +73,11 @@ The camera page allows users to take a picture of the invasive species and uploa
 
 The message page shows all the messages that have been sent by the users.
 
+### 9. Map page
+
+<img src="./doc/map-page.png" alt="map page" width=300 height=600 />
+
+The map page shows all the invasive species that have been reported by the users or added by admin on the map.
 
 
 ## Installation
