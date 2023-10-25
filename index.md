@@ -26,16 +26,18 @@ the island and cause serious damage to the ecosystem or human beings.
 <img src="./doc/login-page.png" alt="login page" width=300 height=600 />
 
 Users can login with their account using the Email and Password they created. Sign up link will lead to the sign up page. Forgot password link will lead to the reset password page. Sign up link will take user back to the sign in page to login.
+Currently, only email will be checked before login. The email in the picture is the default email for testing.
 
 ### 2. Sign up page
 
 <img src="./doc/signup-page.png" alt="signup page" width=300 height=600 />
 
 Users can sign up by entering their Name, Email, password, and phone number. The password must be at least 6 characters long.
-
+Later, a location (zip or city) will be required to sign up so that the app can show the list of invasive species in the area.
 ### 3. Drawer
 
 <img src="./doc/drawer.png" alt="drawer" width=300 height=600 />
+
 
 The drawer contains the user's profile picture, name, and email. And it has the links to the homepage,
 post page (which contains all the posts posted by the user), and the logout button. (there will be more added into the
@@ -43,7 +45,7 @@ drawer in the future)
 
 ### 4. Post page
 
-<img src="./doc/my-post.png" alt="post page" width=300 height=600 />
+<img src="./doc/drawer-posts.png" alt="posts" width=300 height=600 />
 
 The post page shows all the posts that have been posted by the user.
 
@@ -53,19 +55,31 @@ The post page shows all the posts that have been posted by the user.
 
 The list page shows all the invasive species that have been reported by the users or added by admin and grouped them 
 into 3 categories. Users can click on the categories to get into the detailed list of that category.
+(this will be modified in the future to show the list of invasive species in the area of the user
+instead of showing all the invasive species at once)
 
 ### 6. Forum page
 
 <img src="./doc/forum-page.png" alt="forum page" width=300 height=600 />
+<img src="./doc/add-post.png" alt="add post" width=300 height=600 />
+<img src="./doc/edit-post.png" alt="edit post" width=300 height=600 />
 
 The forum page shows all the posts that have been posted by the users. 
 Users can click on the post to get into the detailed post page.
+The floating plus action button will take users to the add post page to create a new post.
+The edit button on the top right corner of the page will take users to the edit post page to edit selected post.
 
 ### 7. Camera page
 
 <img src="./doc/camera-page.png" alt="camera page" width=300 height=600 />
+<img src="./doc/pick-image.png" alt="pick image" width=300 height=600 />
+<img src="./doc/take-picture.png" alt="take picture" width=300 height=600 />
+<img src="./doc/picture-preview.png" alt="picture preview" width=300 height=600 />
 
 The camera page allows users to take a picture of the invasive species and upload it to the database.
+Users can also pick an image from the gallery to upload.
+The camera page will also show the preview of the picture that has been taken or picked.
+The green pixelated face is the simulation of the camera view as the emulator does not open a real camera.
 
 ### 8. Message page
 
