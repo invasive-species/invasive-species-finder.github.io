@@ -139,10 +139,4 @@ Email: [hangbo@hawaii.edu](mailto:hangbo@hawaii.edu)
 
 Portfolio: [https://hangbozhang.github.io/](https://hangbozhang.github.io/)
 
-***Moseli Motsoehi:*** 
 
-PhD student in Computer Science at University of Hawaii at Manoa.
-
-Email:
-
-Portfolio:
