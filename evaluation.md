@@ -12,13 +12,11 @@ The developers will observe the participants and take notes.
 ## User Goals
 
 The user goals of the Invasive Species Finder app are to:
-1. test the functionality of the app for each page linkage and buttons to make sure they work as expected.
-2. test the data flow of the app to make sure the data is stored and retrieved correctly.
-3. test the usability of the app to make sure the app is easy to use and understand.
-4. test the accessibility of the app to make sure the app is accessible to all users.
-5. test the security of the app to make sure the app is secure and the user data is protected.
-6. test the performance of the app to make sure the app is fast and responsive.
-
+1. test if the list page will show the invasive species that have been reported around user's current location (5 miles circle).
+2. test if the forum and post will satisfy the user's need to share their knowledge about invasive species.
+3. test if the camera page will satisfy the user's need to take a picture of the invasive species, then either try to
+identify the species by AI or ask experts to identify the species.
+4. test if the map page will show the invasive species that in the area.
 ## Scenarios
 
 ### Scenario 1: Sign up
