@@ -8,6 +8,7 @@
 * [Installation](#installation)
 * [Development Status](#development-status)
 * [About us](#about-us)
+* [User Evaluation](./evaluation.md)
 
 ## Motivation
 Hawaiian ecosystems are under high level of threat from numerous invasive
