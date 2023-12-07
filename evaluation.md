@@ -12,92 +12,25 @@ The developers will observe the participants and take notes.
 ## User Goals
 
 The user goals of the Invasive Species Finder app are to:
-1. test if the list page will show the invasive species that have been reported around user's current location (5 miles circle).
-2. test if the forum and post will satisfy the user's need to share their knowledge about invasive species.
-3. test if the camera page will satisfy the user's need to take a picture of the invasive species, then either try to
+1. test if the forum and post will satisfy the user's need to share their knowledge about invasive species.
+2. test if the camera page will satisfy the user's need to take a picture of the invasive species, then either try to
 identify the species by AI or ask experts to identify the species.
-4. test if the map page will show the invasive species that in the area.
+
 ## Scenarios
 
-### Scenario 1: Sign up
+### Scenario 1 for User Goal 1
+1. Image you want to share your knowledge about invasive species with others or ask questions about invasive species. Where would go from the homepage?
+2. What would you do to share your knowledge about invasive species?
+3. What would you share about invasive species? Is the fields are enough for you to share your knowledge?
+4. image you found your post has a typo, how would you edit your post?
+5. image you want to delete your post, how would you delete your post?
 
-user will click on the register button on the login page to go to the register page. 
-Then user will enter the email, and password to register. Then user will go to verity email page. 
-After that, user will be redirected to the login page to login with the new account.
+### Scenario 2 for User Goal 2
+1. Image you want to take a picture of the invasive species, where would you go from the homepage?
+2. What would you do to take a picture of the invasive species?
+3. What would you do to identify the species by AI or experts? (if experts, what would you do to identify the species?)
+4. What would you do to share the picture of the invasive species with others?
 
-### Scenario 2: Login
-
-user will enter the email and password to login. 
-Then user will be redirected to the home page which will show a list of invasive species based on user current location.
-
-### Scenario 3: View species detail
-
-user will click on the species from the list page to go to the species detail page. 
-Then user will be able to view the species detail information.
-
-### Scenario 4: View forum
-
-user will click on the forum button on the home page to go to the forum page. 
-Then user will be able to view all the posts that have been posted by the users.
-
-### Scenario 5: Add post
-
-user will click on the floating plus action button on the forum page to go to the add post page. 
-Then user will be able to enter the title and content etc filed of information of the post 
-and click on the submit button to post the post.
-
-### Scenario 6: Edit post
-
-user will click on the edit button on the top right corner of the post page to go to the edit post page. 
-Then user will be able to edit the title and content etc filed of information of the post
-
-### Scenario 7: View Camera
-
-user will click on the camera button on the home page to go to the camera page. 
-Then user will be able to take a picture of the invasive species and upload it to the database.
-user can also pick an image from the gallery to upload in this page
-
-### Scenario 8: View Message
-
-user will click on the message button on the home page to go to the message page. 
-Then user will be able to view all the messages that have been sent by the users or
-the messages that have been sent to the user.
-
-### Scenario 9: View Map
-
-user will click on the map button on the home page to go to the map page. 
-Then user will be able to view all the invasive species that have been reported by the users or 
-added by admin on the map.
-
-### Scenario 10: View Drawer
-
-user will click on the drawer button on the home page to go to the drawer page. 
-Then user will be able to view the drawer page which contains the user's profile picture, name, and email.
-
-### Scenario 11: View Post
-
-user will click on the post from the drawer page to go to the post page. 
-Then user will be able to view the posts that are posted by user.
-
-### Scenario 12: View profile
-
-user will click on the profile button on the drawer to go to the profile page. 
-Then user will be able to view the profile information.
-
-### Scenario 13: View setting
-
-user will click on the setting button on the drawer to go to the setting page. 
-Then user will be able to change the theme of the app.
-
-### Scenario 14: View help
-
-user will click on the help button on the drawer to go to the help page. 
-Then user will be able to view the help information.
-
-### Scenario 15: Logout
-
-user will click on the logout button on the drawer to go to the login page. 
-Then user will be able to logout from the app.
 
 ## User Types
 1. Regular: who might have no idea about invasive species and want to learn more about them.
@@ -121,5 +54,39 @@ as extra credit for students that did the evaluation.
 5. local parks, such as Koko Head District Park, Kapiolani Park, and Ala Moana Beach Park.
 6. local government, such as Hawaii Department of Agriculture, Hawaii Department of Land and Natural Resources, and Hawaii Department of Health.
 
+## Consent Forms
 
+The consent form I used is [consent form](./doc/permission-form.pdf).
+All participants will be asked to sign the consent form before the evaluation.
+A signed copy of the consent form for each participant has been collected and stored carefully.
 
+## Description of the participants
+
+- User A: She is student at the University of Hawaii at Manoa. She is a regular user. She has no idea about invasive species. She wants to learn more about invasive species.
+- User B: He is a hiker. He is a middle user. He has some knowledge about invasive species. He wants to share his knowledge with others.
+- User C: He is a student at the University of Hawaii at Manoa learning biology. He is an middle user. He has knowledge about invasive species. He wants to share his knowledge with others.
+- User D: She is a farmer. She is a middle user. She has some knowledge about invasive species. She wants to share her knowledge with others.
+- User E: He is working at pest control company. He is an expert user. He has knowledge about invasive species. He wants to share his knowledge with others.
+## When & Where
+
+User A and C were evaluated on 11/28/2023 at 13:00 and 15:00 in the University of Hawaii at Manoa campus.
+User E was evaluated on 12/02/2023 at 16:00 in Ewa Beach (Ewa by Gentry).
+User B will evaluate on 12/13/2023 at 11:00 in the Moanalua Valley Trail Start location.
+User D was evaluated on 12/14/2023 at 14:30 in the Kahuku Farms.
+
+## Script
+
+The script I used is [script](./doc/script-isf.pdf).
+
+## Raw data
+
+1. User A raw data: [raw data](./doc/raw-data-akina.pdf)
+2. User C raw data: [raw data](./doc/raw-data-Elijash.pdf)
+3. User E raw data: [raw data](./doc/raw-data-rusell.pdf)
+
+## Results
+
+1. They all mentioned about the adding post is not very friendly.
+Such as not a dropdown list for the category. All fields are single line text field (especially for content should be bigger field).
+2. The camera is able to take picture, but not able to upload the picture to the post.
+3. The forum is able to show the posts, but posts are not clickable to show the details, also would be nice people can comment on the post.
