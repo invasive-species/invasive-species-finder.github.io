@@ -67,6 +67,7 @@ A signed copy of the consent form for each participant has been collected and st
 - User C: He is a student at the University of Hawaii at Manoa learning biology. He is an middle user. He has knowledge about invasive species. He wants to share his knowledge with others.
 - User D: She is a farmer. She is a middle user. She has some knowledge about invasive species. She wants to share her knowledge with others.
 - User E: He is working at pest control company. He is an expert user. He has knowledge about invasive species. He wants to share his knowledge with others.
+
 ## When & Where
 
 User A and C were evaluated on 11/28/2023 at 13:00 and 15:00 in the University of Hawaii at Manoa campus.
