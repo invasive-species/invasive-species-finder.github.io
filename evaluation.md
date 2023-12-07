@@ -92,3 +92,4 @@ The script I used is [script](./doc/script-isf.pdf).
 Such as not a dropdown list for the category. All fields are single line text field (especially for content should be bigger field).
 2. The camera is able to take picture, but not able to upload the picture to the post.
 3. The forum is able to show the posts, but posts are not clickable to show the details, also would be nice people can comment on the post.
+4. It would be great to have the map to show the location of the invasive species.
