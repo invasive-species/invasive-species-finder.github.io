@@ -70,10 +70,11 @@ A signed copy of the consent form for each participant has been collected and st
 
 ## When & Where
 
-- User A and C were evaluated on 11/28/2023 at 13:00 and 15:00 in the University of Hawaii at Manoa campus.
-- User E was evaluated on 12/02/2023 at 16:00 in Ewa Beach (Ewa by Gentry).
-- User B will evaluate on 12/13/2023 at 11:00 in the Moanalua Valley Trail Start location.
-- User D was evaluated on 12/14/2023 at 14:30 in the Kahuku Farms.
+- User A was evaluated on 11/28/2023 at 13:00 in the University of Hawaii at Manoa campus. Using a Samsung tablet I provided.
+- User C was evaluated on 11/28/2023 at 15:00 in the University of Hawaii at Manoa campus. Using his own device Google Pixel 6.
+- User E was evaluated on 12/02/2023 at 16:00 in Ewa Beach (Ewa by Gentry). Using a Samsung tablet I provided.
+- User B will evaluate on 12/13/2023 at 11:00 in the Moanalua Valley Trail Start location. Will use his own device Samsung Galaxy S21.
+- User D was evaluated on 12/14/2023 at 14:30 in the Kahuku Farms. Will use the Samsung tablet I provided.
 
 ## Script
 
