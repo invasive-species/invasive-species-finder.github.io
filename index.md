@@ -85,14 +85,17 @@ The green pixelated face is the simulation of the camera view as the emulator do
 ### 7. Message page
 
 <img src="./doc/message-page.png" alt="message page" width=300 height=600 />
+<img src="./doc/send-message.png" alt="message page" width=300 height=600 />
 
 The message page shows all the messages that have been sent by the users.
 
 ### 8. Map page
 
 <img src="./doc/map-page.png" alt="map page" width=300 height=600 />
+<img src="./doc/map-marker-detail.png" alt="map page" width=300 height=600 />
 
 The map page shows all the invasive species that have been reported by the users or added by admin on the map.
+Each marker on the map represents a species. User can tap on the marker to get into the detailed information page of that species.
 
 
 ## Installation
