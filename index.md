@@ -62,11 +62,15 @@ Users can click on the species to get into the detailed information page of that
 ### 5. Forum page
 
 <img src="./doc/forum-page.png" alt="forum page" width=300 height=600 />
+<img src="./doc/post-detail.png" alt="post detail" width=300 height=600 />
+<img src="./doc/post-comment.png" alt="post comment" width=300 height=600 />
 <img src="./doc/add-post.png" alt="add post" width=300 height=600 />
 <img src="./doc/edit-post.png" alt="edit post" width=300 height=600 />
 
 The forum page shows all the posts that have been posted by the users. 
 Users can click on the post to get into the detailed post page.
+In the detailed post page, users can see the post content, the post image, and the comments.
+And also, users can add comments to the post.
 The floating plus action button will take users to the add post page to create a new post.
 The edit button on the top right corner of the page will take users to the edit post page to edit selected post.
 
