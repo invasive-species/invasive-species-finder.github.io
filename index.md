@@ -7,6 +7,7 @@
 * [Usage](#usage)
 * [Installation](#installation)
 * [Development Status](#development-status)
+* [Deployment](#deployment)
 * [About us](#about-us)
 * [User Evaluation](./evaluation.md)
 
@@ -137,11 +138,20 @@ http://127.0.0.1:9101?uri=http://127.0.0.1:63610/L5Qxu9BkbG0=/
 
 Project Board: [https://github.com/orgs/invasive-species/projects/2](https://github.com/orgs/invasive-species/projects/2)
 
+## Deployment
+
+The app has been deployed using Firebase App Distrubution. 
+The link to download the app is 
+[ISF App](https://appdistribution.firebase.google.com/testerapps/1:552640942465:android:d3bff393f9c4ff2286d880/releases/1i2m287uojdq8?utm_source=firebase-console).
+If interested, please contact us to become a tester of the app.
+
 ## About us
 
 ***Hangbo Zhang:*** 
 
-Graduate student in Computer Science at University of Hawaii at Manoa. 
+Graduate student in Computer Science at University of Hawaii at Manoa. Graduating in May 2024.
+
+Areas of interest: Software Development, Machine Learning, and Cyber Security.
 
 Email: [hangbo@hawaii.edu](mailto:hangbo@hawaii.edu)
 
