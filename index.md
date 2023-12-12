@@ -141,8 +141,7 @@ Project Board: [https://github.com/orgs/invasive-species/projects/2](https://git
 ## Deployment
 
 The app has been deployed using Firebase App Distrubution. 
-The link to download the app is 
-[ISF App](https://appdistribution.firebase.google.com/testerapps/1:552640942465:android:d3bff393f9c4ff2286d880/releases/1i2m287uojdq8?utm_source=firebase-console).
+Currently the app is only downloadable with an invitation email for testing.
 If interested, please contact us to become a tester of the app.
 
 ## About us
